@@ -3,7 +3,7 @@
 
 Chào các bạn! write-up này mình sẽ đi ngắn gọn về các bước khi mà mình solve 3 bài challenge về Web, cụ thể là method Command Injection trên Battle CookieArena. Gét gô!!
 
-#### NSLookup level 1
+## NSLookup level 1
 UI của trang web
 
 ![alt text](assets/image.png)
@@ -37,7 +37,7 @@ thấy file `flag.txt` rồi thì `cat` thôi hé
 
 lụm key rồi qua challenge tiếp theo he
 
-#### NSLookup level 2
+## NSLookup level 2
 UI của challenge này cũng y hệt bài trước, nhưng có cái các command của nó đã bị filtered. 
 
 ![alt text](assets/image-8.png)
@@ -58,7 +58,7 @@ ok ra rồi thì mình làm y như bước challenge 1 nhưng đổi lại paylo
 ```
 submit flag xong qua challenge cuối
 
-#### NSLookup level 3
+## NSLookup level 3
 Đề bài:
 (*Tất cả các lệnh đọc file 'cat', 'head', 'tail', 'less', 'strings', 'nl', "ls"*, " * ", *"curl", "wget" đều bị chặn và không tồn tại trên hệ thống*)
 (*Flag: /flagXXXX.txt*)
