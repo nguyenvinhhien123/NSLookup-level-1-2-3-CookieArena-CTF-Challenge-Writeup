@@ -28,6 +28,7 @@ giờ thì chỉ cần `[domain]; cd ..` để về thư mục trước đó
 ![alt text](image-4.png)
 
 **cấu trúc của file system hierarchy**
+
 ![alt text](image-6.png)
 
 thấy file `flag.txt` rồi thì `cat` thôi hé
