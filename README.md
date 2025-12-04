@@ -1,4 +1,4 @@
-# NSLookup-level-1-2-3-CookieArena-CTF-Challenge-Writeup
+# NSLookup-level-1-2-3-CookieArena-CTF-Challenge
 
 
 Chào các bạn! write-up này mình sẽ đi ngắn gọn về các bước khi mà mình solve 3 bài challenge về Web, cụ thể là method Command Injection trên Battle CookieArena. Gét gô!!
